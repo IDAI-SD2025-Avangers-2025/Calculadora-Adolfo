@@ -10,6 +10,8 @@ El proyecto forma parte de la práctica del curso de *Desarrollo Web*, donde apl
 - Eventos y manejo de formularios  
 - Validación de entradas del usuario  
 
+## Explicación de conceptos
+
 ---
 
 ## 🚀 Instrucciones
@@ -23,9 +25,5 @@ El proyecto forma parte de la práctica del curso de *Desarrollo Web*, donde apl
 ## 🚀 Ejemplo de Suma
 
 ![Vista previa de la calculadora con la suma ](EjemploSumaCalculadora.png)
-
-## Explicación
-
-
 En la imagen anterior, podemos ver como de lado izquierdo se debe de escribir un numero y del lado derecho se colocará el otro numero.
 El usuario podra dar click a un botón y mostrará el resultado. Actualmente se muestra en la página web, pero si lo muestran con un alert, lo doy por bien.
